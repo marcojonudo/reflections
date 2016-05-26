@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Que se crea el .git. Para que se pueda tener un control de versiones del directorio

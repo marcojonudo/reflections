@@ -12,3 +12,6 @@ Situations where you want to code something that may not work, or where you are 
 
 How do the diagrams help you visualize the branch structure?
 It prints graphicaly what otherwise should be remembered by heart
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Una sola rama. Se representa así para especificar el trabajo diferenciado en ambas ramas

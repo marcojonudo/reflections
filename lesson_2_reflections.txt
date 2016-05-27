@@ -3,3 +3,6 @@ Que se crea el .git. Para que se pueda tener un control de versiones del directo
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Es un intermediario que te permite mantener limpios los commits
+
+How can you use the staging area to make sure you have one commit per logical change?
+Adding just those elements that refer to that logical change

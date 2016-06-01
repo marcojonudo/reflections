@@ -12,3 +12,6 @@ Siempre puedes volver a ella
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Dropbox. Es solo copiar y pegar, pero el control de versiones es más chungo
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I am contributing to other's projects, or when I want to make experimental changes
